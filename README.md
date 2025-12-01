@@ -24,6 +24,8 @@ Filled maps-->sales analysis over geographical panaroma
 Line and Stacked Column Charts-->Delving deeper into sales increase
 Funnel Charts-->Top product profits
 Donut Charts-->Contribution in profits and sales accross diffrent zones,category
+7)Screenshot
+https://github.com/priyankaaaavyas555-del/SupplyChain_Analysis/blob/main/Analysis_Overview.png
 
 
 
